@@ -7,7 +7,7 @@ The idea behind the project is to find or address a pattern in tweets among the 
 Dataset
 --------------------
 The twitter dataset was downloaded from Kaggle website and it can be found under the following URL: https://www.kaggle.com/crowdflower/twitter-user-gender-classification .
-The dataset has twenty thousand entries.
+The dataset have twenty thousand entries.
 
 Goal
 ------------
